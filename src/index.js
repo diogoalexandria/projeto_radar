@@ -13,5 +13,5 @@ mongoose.connect('mongodb+srv://admin:Diogo0502@cluster0-w2pqv.mongodb.net/week-
 });
 
 app.listen(3000, () => {
-    console.log('Server listening on port 3000.')
+    console.log('Server listening on port 3000.');
 });
